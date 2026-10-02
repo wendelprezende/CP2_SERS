@@ -1,5 +1,9 @@
 # APIs de Energia Renovável e Machine Learning
 
+## Integrantes: 
+Wendel Pedro - RM: 573126
+Daniel Alejandro - RM: 573075
+
 ## Objetivo
 
 Consultar APIs públicas de energia e aplicar aprendizado de máquina em
